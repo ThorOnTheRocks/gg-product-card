@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage it should render the component correctly with a personalized image 1`] = `
+<img
+  alt="coffee mug"
+  className="productImg undefined"
+  src="https://hello.com"
+/>
+`;
