@@ -2,9 +2,9 @@ import React, { createContext } from 'react';
 import useProduct from '../hooks/useProduct';
 import styles from '../styles/styles.module.css';
 import {
-  IProduct,
-  IOnChangeArgs,
   IInitialValues,
+  IOnChangeArgs,
+  IProduct,
   IProductCardHandlers,
 } from '../interfaces/ProductInterfaces';
 
